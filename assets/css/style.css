@@ -1,0 +1,114 @@
+hr {
+    border-top: 1.6px solid gray;
+    color : gray;
+    opacity: 0.8;
+}
+
+
+h1 {
+    text-align: left;
+    margin-top: 8%;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+header h1 {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+li {
+    text-align: left;
+    margin-bottom: 0.2em;
+}
+
+#ques-content {
+    text-align: left;
+}
+
+#ques-content h1{
+    text-align: left;
+    font-size: 20px;
+}
+
+#highscores {
+    float: left;
+    position: absolute;
+    top: 0;
+    left: 1em;
+    clear: both;
+    color: purple;
+}
+
+#timer {
+    float: right;
+    position: absolute;
+    top: 0;
+    right: 1em;
+    clear: both;
+}
+
+#highscore-list {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.highscore {
+    text-align: left;
+    font-weight: bold;
+    padding: 1px 10px;
+    color: white;
+    border-radius: 3px;
+    text-align: center;
+}
+
+.peach {
+    background-color: #f81414;
+}
+
+.orchid {
+    background-color: #6600ec;
+}
+
+.btn-purple {
+    background-color: purple;
+    border-color: purple;
+    color:white;
+    font-weight: bold;
+    padding: 3px 6px;
+    
+    
+}
+
+.nav-container {
+    position: relative;
+    width: 100%;
+    margin-top: .5em;
+    font-size: 24px;
+    height: 40px;
+    font-weight: bolder;
+}
+
+.submit-field {
+    text-align: left;
+}
+
+
+.fader h3 {
+    font-weight: bold;
+    text-align: left;
+    color : gray;
+    opacity: 0.8;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
