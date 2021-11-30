@@ -17,4 +17,5 @@ WHEN the game is over
 THEN I can save my initials and score
 
 #Screen Shot 
-![quiz with times ss](https://user-images.githubusercontent.com/93230917/143818694-dde99d9e-90d8-4486-9f32-2211ec97d704.png)
+![ss code quiz](https://user-images.githubusercontent.com/93230917/143980378-421e666e-a273-4feb-b00f-cb63461007c4.png)
+
